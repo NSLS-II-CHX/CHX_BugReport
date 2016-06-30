@@ -6,13 +6,6 @@ software at NSLS-II
 
 Bug Report Checklist
 --------------------
-Please make sure that you have the following information in your bug report!
-
-- verbose description of the bug that you found (:ref:`bug_reports`)
-- watermark of the NSLS-II software stack (:ref:`watermark`)
-- output of ``conda list`` from your activated conda environment (:ref:`conda_list`)
-
-.. _bug_reports:
 
 How to write a good bug report
 ------------------------------
