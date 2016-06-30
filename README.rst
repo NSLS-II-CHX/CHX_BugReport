@@ -1,8 +1,7 @@
 Bug Reports
 ===========
+Unified issue-tracker for bugs in the data analysis JupyterHub at CHX.
 
-Unified issue-tracker for bugs in the data acqusition, management, and analysis
-software at NSLS-II
 
 Bug Report Checklist
 --------------------
